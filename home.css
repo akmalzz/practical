@@ -1,0 +1,45 @@
+
+
+
+.container
+{
+	text-align:center;
+}
+
+#title
+{
+	font-family: sans-serif;
+	text-align: center;
+	margin:30px;
+}
+
+input[type="text"]
+{
+
+	width:36%;
+
+}
+input[type="text"]:focus
+{
+	border-color: red;
+	outline:none;
+
+}
+
+#mmcoeLogo
+{
+	margin:20px auto;
+}
+
+
+#getStatement
+{
+	border-radius:10px 0 10px 0;
+
+}
+
+#getStatement:hover
+{
+	color:red;
+	background-color: white;
+}

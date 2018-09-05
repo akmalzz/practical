@@ -1,0 +1,4 @@
+$("getStatement").click(function()
+{
+	
+});
