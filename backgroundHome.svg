@@ -1,0 +1,25 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <defs>
+  <linearGradient y2="0" x2="0" y1="0" x1="1" id="svg_6">
+   <stop offset="0" stop-color="#00bfbf"/>
+   <stop offset="1" stop-color="#ff4040"/>
+  </linearGradient>
+  <linearGradient y2="0" x2="1" y1="0" x1="0" id="svg_7">
+   <stop offset="0" stop-color="#007f7f"/>
+   <stop offset="1" stop-color="#ff8080"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect stroke-width="0" fill-opacity="0.55" stroke="#000" transform="rotate(60 -31.07660675048829,113.29551696777344) " id="svg_1" height="225.57626" width="195.61473" y="0.507385" x="-128.883978" fill="url(#svg_6)"/>
+  <rect stroke-width="0" fill-opacity="0.48" transform="rotate(60 540.5000000000001,391) " id="svg_2" height="226" width="190" y="278" x="445.5" stroke="#000" fill="url(#svg_7)"/>
+ </g>
+</svg>

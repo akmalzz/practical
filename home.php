@@ -8,27 +8,27 @@
 <body>
 
 
-<div class="container">
+<div class="container card">
 
 <div id="mmcoeLogo">
 	<img src="mmcoeLogo.jpg">
 </div>
 
-<form method="POST" action="home2.php" enctype="">
+<form method="POST" action="home2.php" enctype="" >
 
-	<p><input type="text" placeholder="Enter Exam Seat Number" name="seatNo" required></p>
+	<p><input id="seatNo" type="text" placeholder="Enter Exam Seat Number" name="seatNo" required></p>
 
-	<p><input type="text" placeholder="Enter Course ID" name="courseId" required></p>
+	<p><input id="courseId" type="text" placeholder="Enter Course ID" name="courseId" required></p>
 
 <p>
-	<select name="class">
+	<select name="class" class="btn btn-primary">
   <option value="BE">BE</option>
   <option value="TE">TE</option>
   <option value="SE">SE</option>
 </select>
 </p>
 
-	<input type="submit" name="getState" value="Get Statement" >
+	<input id="submit" class="btn btn-danger" type="submit" name="getState" value="Get Statement" >
 </form>
 
 <div id="statementDivision">
