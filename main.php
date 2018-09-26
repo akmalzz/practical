@@ -21,6 +21,7 @@ elseif($var==rbkiyr)
 
 <body>
 <h1><a href="importProb.html" target="_blank">Create a Course</a></h1>
+<h1><a href="displayCourses.php" target="_blank">Display Courses</a></h1>
 <h1><a href="problemstatements.php" target="_blank">Display Problem Statements</a></h1>
 <h1><a href="addStudent.html" target="_blank">Create Class</a></h1>
 <h1><a href="displayStudents.html" target="_blank">Display & Approve Students</a></h1>

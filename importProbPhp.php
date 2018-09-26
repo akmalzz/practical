@@ -23,8 +23,8 @@ try {
      fclose($file);
    // use exec() because no results are returned
     }
-
-
+    $sql = "INSERT INTO Courses(course_name) values('$course');";
+    $conn->exec($sql);
 
 
 
