@@ -147,8 +147,7 @@ $conn = null;
 
 if($count==0)
 {
-	$pbvar = "$alldata[0]";
-
+  $pbvar = "<br/>Seat No : $seatNo <br><br> Problem Statement : $alldata[0]";
 
 
 
@@ -198,7 +197,7 @@ try {
     }
 
 
-    $pbvar = "<br/>Seat No : $studData[1] </br> Problem Statement : $studData[2] <br/>You have alredy got your statement!!!!<br/>Play Fair Bro....";
+    $pbvar = "<br/>Seat No : $studData[1] <br><br> Problem Statement : $studData[2]";
 /*echo $alldata[0];//name
 echo $alldata[1];//email
 echo $alldata[2];//paymode*/
